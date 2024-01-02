@@ -1,4 +1,4 @@
 # [LeetCode](https://leetcode.com/)
 
 ## Description
-<p>My solutions for LeetCode]</p>
+<p>My solutions for LeetCode</p>
